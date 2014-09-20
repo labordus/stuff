@@ -1,0 +1,4 @@
+*~
+core
+/home/kelp/dev/fpc
+/home/kelp/dev/fpc/delphi_projecten
