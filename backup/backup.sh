@@ -37,7 +37,7 @@ echo ""
 }
 
 function backuphome {
-SRCDIR1="/home/kelp/Desktop /home/kelp/Downloads /home/kelp/bin /home/kelp/stuff /etc/fstab"
+SRCDIR1="/home/kelp/Desktop /home/kelp/Downloads /home/kelp/bin /etc/fstab"
 SRCDIR2=" /home/kelp/.config /home/kelp/.worker /home/kelp/.lazarus"
 #tar --exclude-vcs --exclude-from=/home/kelp/dev/stuff/backup/excludes_home.txt -cvjf $DESDIR/home$TIME$EXT $SRCDIR1$SRCDIR2
 echo ""
