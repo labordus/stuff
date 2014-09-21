@@ -3,7 +3,7 @@
 # bz2 compression
 #START
 # --exlude-backups --exclude-vcs 
-# voorwaarden.. dialog, tar, bzip
+# voorwaarden zijn.. dialog, tar, bzip
 
 backupset=$1
 DIALOG=${DIALOG=dialog}
