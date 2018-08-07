@@ -1,4 +1,4 @@
-workerconfig 3.5.0;i
+workerconfig 3.5.0;
 buttons {
 	button {
 		position = 0;
